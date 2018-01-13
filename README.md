@@ -1,6 +1,7 @@
 # HuffmanEncodingDecoding
 Huffman encoder and decoder using binary heaps.
 
+To run complie all the files and then run encoder.cpp to encode input data and run decoder.cpp to decode encoded data.
 
 FUNCTION PROTOTYPES
 
